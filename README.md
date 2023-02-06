@@ -13,6 +13,7 @@ Quieres tener la posibilidad de:
   
 En estas guías podrás encontrar resumido e información muy específica y fácil de seguir, según lo aparecido en los siguientes urls:
 
+    Identidad integrada en aplicaciones: https://learn.microsoft.com/en-us/security/zero-trust/integrate/identity
     Identidad: https://learn.microsoft.com/es-es/security/zero-trust/deploy/identity
     Endpoint: https://learn.microsoft.com/es-es/security/zero-trust/deploy/endpoints
     Aplicaciones: https://learn.microsoft.com/es-es/security/zero-trust/deploy/applications
